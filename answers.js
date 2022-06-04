@@ -1,3 +1,6 @@
+// Array Helper Functions - ES6
+// forEach() | map() | reduce() | filter() | every() | some() | find() | sort()
+
 const characters = [
     {
         name: 'Luke Skywalker',
